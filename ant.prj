@@ -1,0 +1,10 @@
+ant_def.h
+ant.h
+ant_life.c
+checkpt.c
+genes.c
+input.c
+pattern.c
+reproduc.c
+print.c
+main.c
